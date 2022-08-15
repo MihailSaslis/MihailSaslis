@@ -12,6 +12,7 @@ I'm a research scientist in areas of interest, Mathematics, and Computer Science
 I've been granted a "Best Paper" award in the WebNet '98 World Conference at Orlando, Florida, US.
 Worked in IBM in Athens, Greece for nine years - two "IBM Awards."
 I'm in the process of completing my work, called "The Trilogy". It consists of three major parts:
+
 (I) Completed detailed analysis of the Riemann zeta function and proof of
 the results related to the Riemann Hypothesis. Current work shows how primes are distributed concerning the non-trivial zeros of the Riemann zeta function.
 
